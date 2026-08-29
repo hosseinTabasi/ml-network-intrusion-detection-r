@@ -1,0 +1,19 @@
+# R session junk
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+*.Rproj
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Optional local package library
+renv/
+.Rlib/
+packrat/
+
+# Temporary
+*.tmp
+*~
